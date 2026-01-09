@@ -1,2 +1,2 @@
 # Olá, Mundo Git!
-Primeiro repositório do curso de Git e GitHub do Curso em Vídeo!
+Primeiro repositório do curso de Git e GitHub do Curso em Vídeo.
